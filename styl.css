@@ -1,0 +1,27 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+}
+.baner{
+    height: 100px;
+    background-color: yellow;
+}
+.lewy,.prawy{
+    height: 350px;
+}
+.lewy{
+    width: 50%;
+    background-color: red;
+    float:left;
+}
+.prawy{
+    width: 50%;
+    background-color: green;
+    float:left;
+}
+.stopka{
+    height: 50px;
+    background-color: yellow;
+    clear:both;
+}
